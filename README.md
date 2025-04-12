@@ -196,16 +196,3 @@ The project is to be developed collaboratively by all group members.
      Port: 10160
      ```
 6. **You're now ready to go!**
----
-
----
-
-## Contributing
-- Fork the repository and create a new branch for your feature or bugfix.
-- Commit your changes and open a pull request for review.
-
----
-
-## Contact
-**CALL 911**  
-[Link to TikTok](https://vt.tiktok.com/ZS2YPYCPr/)
